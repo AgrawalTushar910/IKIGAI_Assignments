@@ -1,2 +1,2 @@
-# IKIGAI_Assignments
-Web_development
+# IKIGAI_Assignment
+React App
